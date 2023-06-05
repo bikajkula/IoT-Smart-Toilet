@@ -1,8 +1,8 @@
 # IoT-Smart-Toilet
 
-Mihajlo Karadžić
-Filip Unčanin
-Krsto Zarić
+#### Mihajlo Karadžić
+#### Filip Unčanin
+#### Krsto Zarić
 
 # O projektu
 Projekat IoT Pametna WC šolja predstavlja sistem koji čini komunikacija u Discovery protokolu 
