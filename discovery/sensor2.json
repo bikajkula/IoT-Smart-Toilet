@@ -1,0 +1,8 @@
+{
+	"id": "toilet_seat_heater_1",
+	"group": "heater",
+	"HeatingService": {
+		"Temperature": "0-40",
+		"State": "ON/OFF"
+	}
+}

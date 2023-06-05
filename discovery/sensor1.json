@@ -1,0 +1,8 @@
+{
+	"id": "toilet_seat_pressure_pad_1",
+	"group": "pressure_pad",
+	"PressurePadService": {
+		"IsOccupied": true,
+		"OccupancyPercentage": 75
+	}
+}
