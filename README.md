@@ -25,6 +25,9 @@ Za aktuator daske:
 
 Za aktuator motora za pustanje vode:
 	act_toilet_flusher.py (MQTT)
+	
+Za kontrolni panel:
+	control_panel.py
 
 # Potrebne biblioteke
 
