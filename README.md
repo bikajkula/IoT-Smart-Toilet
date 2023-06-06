@@ -49,4 +49,4 @@ Davanje permisija:
 
 Windows pokretanje brokera: mosquitto -c mosquitto.conf 
 
-Ubuntu - ubuntu_help.txt
+Ubuntu - ubuntu_help.md
