@@ -35,3 +35,18 @@ Za kontrolni panel:
 - paho-mqtt
 - netifaces
 - firebase-admin
+
+# Priprema
+
+Za Ubuntu /etc/mosquitto , za Win  ...Program Files/mosquitto           u mosquitto.conf
+
+- listener 1883
+- allow_anonymous true
+
+Davanje permisija:
+- sudo -i
+- chmod 760 mosquitto
+
+Windows pokretanje brokera: mosquitto -c mosquitto.conf 
+
+Ubuntu - ubuntu_help.txt
